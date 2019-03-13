@@ -20,8 +20,8 @@ At 641px the page will have
 Column 1 - blue, Column 2 - purple, Column 3 - grey, Column 4-brown.
 The site should not expand beyond 1140px
 ##### Web Page
--1 page
--Semantic HTML 5 tagging
--Link to CSS file, JS File and Reset
--Valid HTML5 & CSS
--Proper Document Outline 
+* 1 page
+* Semantic HTML 5 tagging
+* Link to CSS file, JS File and Reset
+* Valid HTML5 & CSS
+* Proper Document Outline 
